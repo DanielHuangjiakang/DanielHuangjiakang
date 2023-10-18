@@ -1,11 +1,12 @@
 ## Hi, I'm Daniel Huang 👋
 
-🏫 **Current School**: UBC
+🏫 **Current School**: UBC Computer Science 2026
 
 👨‍💻 **Skills**:
-- Programming Languages: 
-- Tools: 
-- Others: 
+- Programming Languages: Java, C, R studio, Python, HTML & CSS, Dr Racket
+- Language Skills: Fluent in Mandarin, Advanced in English
+- Strong problem-solving capabilities
+- Excellent communication skills
 
 📈 **My GitHub Stats**:
 
@@ -20,7 +21,7 @@
   </tr>
 </table>
 
-🔗 **Contact me**: jiakang2022@126.com
+📬 **Email me**: jiakang2022@126.com
 
 <!--
 **DanielHuangjiakang/DanielHuangjiakang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
