@@ -22,7 +22,9 @@
 </table>
 
 📝 **Resume Here**: 
+
 📧 **Email me**: jiakang2022@126.com
+
 💬 **WeChat**: 1262180897
 
 <!--
