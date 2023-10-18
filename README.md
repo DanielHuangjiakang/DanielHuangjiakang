@@ -21,11 +21,11 @@
   </tr>
 </table>
 
-📝 **Resume Here**: 
-
 📧 **Email me**: jiakang2022@126.com
 
 💬 **WeChat**: 1262180897
+
+📝 **Resume**: [Click here](https://github.com/DanielHuangjiakang/DanielHuangjiakang/blob/main/Jiakang%20Huang-Resume.pdf)
 
 <!--
 **DanielHuangjiakang/DanielHuangjiakang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
