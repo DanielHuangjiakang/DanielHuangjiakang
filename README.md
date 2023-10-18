@@ -5,7 +5,6 @@
 👨‍💻 **Skills**:
 - Programming Languages: Java, C, R studio, Python, HTML & CSS, Dr Racket
 - Language Skills: Fluent in Mandarin, Advanced in English
-- Strong problem-solving capabilities
 - Excellent communication skills
 
 📈 **My GitHub Stats**:
