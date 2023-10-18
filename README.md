@@ -1,4 +1,4 @@
-## Hi, Daniel Huang 👋
+## Hi, I'm Daniel Huang 👋
 
 🏫 **Current School**: UBC
 
