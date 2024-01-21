@@ -3,7 +3,7 @@
 🎓 **Current School**: UBC Computer Science 2026
 
 👨‍💻 **Skills**:
-- Programming Languages: Java, C, Assembly, R studio, Python, HTML & CSS, Dr Racket
+- Programming Languages: Java, C, C++, R studio, Python, HTML & CSS, Assembly, Dr Racket
 - Language Skills: Fluent in Mandarin, Advanced in English
 - Excellent communication skills
 
