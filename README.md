@@ -3,9 +3,11 @@
 🎓 **Current School**: UBC Computer Science 2026
 
 👨‍💻 **Skills**:
-- Programming Languages: Java, C, C++, R studio, Python, HTML & CSS, Assembly, Dr Racket
+- Programming Languages: Java, C, C++, R studio, Python, HTML, CSS, Unity, Assembly, Bash, Shell
+- Developer Tools: Git/Github, Jupyter Notebook, Visual Studio, IntelliJ, R studio, Unity Hub, Terminal
+- Testing Tools: JUnit, Catch2, Makefile
+- Web development: WIX, WordPress, Figma, Notion Builder
 - Language Skills: Fluent in Mandarin, Advanced in English
-- Excellent communication skills
 
 📈 **My GitHub Stats**:
 
