@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-📧 **Email me**: jiakang2022@126.com
+📧 **Email me**: jhuang74@students.cs.ubc.ca
 
 💬 **WeChat**: 1262180897
 
