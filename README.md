@@ -22,6 +22,8 @@
   </tr>
 </table>
 
+🖥️ **Personal Website**: https://danielhuangjiakang.github.io/jiakanghuang.github.io/#home
+
 📧 **Email me**: jhuang74@students.cs.ubc.ca
 
 💬 **WeChat**: 1262180897
