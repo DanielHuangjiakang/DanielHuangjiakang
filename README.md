@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Huang 👋
 
-🎓 CS @ UBC · Class of 2026
+🎓 CS @ UBC · Class of 2027
 
 ---
 
