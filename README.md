@@ -8,7 +8,7 @@
 
 **AI Systems · AI Agents · LLM Compilers · NLP · Distributed Databases · Memory Systems**
 
-🛠️ Currently building [iMark](https://imarkai.com/) · Contributing to GaussDB @ Huawei Canada · Researching full fine-tuned model merging
+🛠️ Currently building [iMark](https://imarkai.com/) · Contributing to GaussDB @ Huawei Canada · Researching fully fine-tuned model merging
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://danielhuangjiakang.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhuang74@students.cs.ubc.ca)
