@@ -1,0 +1,16 @@
+<div align="center">
+
+# Hi, I'm Daniel Huang 👋
+
+🎓 CS @ UBC · Class of 2027
+
+
+
+<!-- **AI Systems · AI Agents · LLM Compilers · NLP · Distributed Databases · Memory Systems** -->
+
+🛠️ Currently building [iMark](https://imarkai.com/) 
+
+<!-- · Researching fully fine-tuned model merging -->
+
+<!-- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://danielhuangjiakang.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhuang74@students.cs.ubc.ca)  -->
